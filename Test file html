@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pavan Site</title>
+</head>
+<body>
+    <br>
+   <center> <table>
+        <tr>
+            <th><img src="Pavan logo pic.jpg" wedth="500px"height="200px"></th>
+            <th>I am Pavan Kandagatla</th>
+            
+        </tr>   
+    </table>
+    <br>
+    <hr>
+    <table border="1px">
+        <tr >
+            <th>Skills</th>
+            <th>learned</th>
+        </tr>
+        <tr >
+            <th>Drawing</th>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr >
+            <th>painting</th>
+            <td>⭐⭐⭐</td>
+        </tr>
+    </table>
+    <br>
+    <table  border="1px">
+        <tr>
+            <th>Hobbies</th>
+            <th>learned</th>
+        </tr>
+        <tr>
+            <th>music</th>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+         <tr>
+            <th>movies</th>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+    </table>
+    <table>
+        <hr>
+        <tr>
+            <th><h2>gmail:</th></h2>
+            <th>pavankandagatla@26gmail.com</th>
+        </tr>
+    </table>
+    <hr>
+    <a href="My contact detals and ID">My contact details</a>
+    <a href="animation pic.jpg" wedth="200px" height="100px">My profile</a>
+    <a href="https://www.instagram.com/pavangatlaofficial/">Instagram ID</a>
+</body>
+</html>

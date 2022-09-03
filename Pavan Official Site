@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pavan Official Site</title>
+</head>
+<body background="forest-cool.jpg" style="background-repeat: no-repeat; background-size: 100%;" >
+
+
+   <center> <h1>Chityala Ram </h1>
+   <p> <h5>Powered By</p></h5></center>
+   <hr>
+  <center><h1>My Self Pavan Kandagatla</h1></center> 
+  <img src="animation pic.jpg" srcset="" width="500px" height="300px">
+  <p><h2>I am a Student</p></h2> 
+  <p>I fam learing HTML Coures</p>
+  <p>My study Degree 2nd Year Sai Ram College in thorrur</p>
+  <hr>
+<h3>My Skills</h3>
+<table cellspacing="10">
+  <tr>
+        <td>Drawing</td>
+        <td>⭐⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>painting</td>
+        <td>⭐⭐⭐⭐</td>
+        <tr>
+          <td>music</td>
+          <td>💖💖💖💖💖</td>
+        </tr>
+      </tr>
+    </table>
+   <a href="My Contact">My Contact</a>
+  </body>
+</html>
